@@ -12,5 +12,5 @@ Sonioids are pack animals intended for research and exploration on planets that 
 
 Meta
 
-- [History](History.md) : the chat logs containing the discussion of ideas
-- [Ideas](Ideas.md) : Summarised ideas and concepts
+- [History](meta/History.md) : the chat logs containing the discussion of ideas
+- [Ideas](meta/Ideas.md) : Summarised ideas and concepts

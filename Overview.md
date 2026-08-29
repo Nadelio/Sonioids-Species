@@ -1,12 +1,16 @@
 # Overview
 
-Sonioids are pack animals intended for research and exploration on planets that don't orbit a star.
+Sonioids are pack animals intended for research and exploration on planets that don't orbit a star
 
-Sonioids use geothermal energy to recharge
+## Table of content
 
-Sonioids can also absorb and store methane and hydrogen from the atmosphere and convert them into usable fuel if there is no way for them to generate energy from the planet's heat.
+- [Common Patterns](Common%20Patterns.md)
+- [Sonioids](Sonioids.md)
+	- [Explorer role](Explorer%20Role.md)
+	- [Research role](Research%20Role.md)
+- [Factions]() (sometimes referred as "companies")
 
-They come in two primarily classes:
+Meta
 
-- [Research Class](Research%20Class.md)
-- [Explorer Class](Explorer%20Class.md)
+- [History](History.md) : the chat logs containing the discussion of ideas
+- [Ideas](Ideas.md) : Summarised ideas and concepts

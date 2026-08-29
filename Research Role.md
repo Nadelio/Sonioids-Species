@@ -1,4 +1,4 @@
-# Research Class
+# Research Role
 
 Large, Komodo dragon-esc robots built to carry large loads
 

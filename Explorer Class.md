@@ -1,7 +1,5 @@
 # Explorer Class
 
----
-
 Small bat-like salamanders with claws used for digging through soft ground and picking up objects.
 
 Explorer class sonioids have wings similar to that of a bat, with webbing connecting the sides of their torsos to their front limbs, these wings allow them to glide in most atmospheres, and fly in some of the more dense ones, although they are prone to tearing if the atmosphere is too dense or if the wind is too heavy.

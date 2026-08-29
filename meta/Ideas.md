@@ -1,0 +1,26 @@
+# Ideas
+
+- No eyes
+- See the world with ultrasonic haptic arrays or lidars
+- Manmade
+- Built for low to no light environments
+- Used to explore and map planets without stars
+- Exploration and reserch
+- Equipped with fur to mitigate cold
+- Based on atmosphere they are equipped with different kinds of engines: thermal, methane, hydrogen (electrolysis) since solar panels are not an option
+- Hunch as backpack
+- Some explorers can fly or glide based on air density and planet gravity
+- ==Flexible but with limits==
+- Travel in packs
+	- Symbiotic relationship
+	- More explorers per researcher
+- Two roles
+	- Exploration: fast ("lithe"), small build, powerful hind legs, can manipulate small objects
+		- Tucked away manipulators
+		- Bat (underground)
+		- Spider (aquatic)
+	- Research: lot of cargo space, can collect and examine materials
+		- reptiles with a flat back
+		- can fabricate components
+		- Komodore dragon (underground)
+		- Percussive appendice

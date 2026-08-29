@@ -60,7 +60,7 @@
 
 > Speaking of reptilian. For the "collection and examination" type they could be like giant lizards. Aka. large, flat, horizontal back that can house various materials and instruments
 
-![](giant_bat_pulling_cart.png)
+![](assets/references/giant_bat_pulling_cart.png)
 
 > gotta say, I like the bat-like features and "small" build
 
@@ -112,11 +112,11 @@
 > maybe some dedicated appedices they can use as manipulators? like spiders?
 > Close to the body when not in use
 
-![](spider_appendices.jpg)
+![](assets/references/spider_appendices.jpg)
 
 > or maybe they have a switchblade mechanism that "hides" the digging claws / pickaxe head inside the forearm
 
-![](artist_depictoin_of_claws_coming_from_body.png)
+![](assets/references/artist_depictoin_of_claws_coming_from_body.png)
 
 - Sarah
 
@@ -126,9 +126,9 @@
 
 > What if instead of a "digging head" they had a percussive appendice? Basically they have the "normal arm" but in the middle (or over it) they have an attachment that is a pisto-loaded shaft with a heavy-duty tip (like a spear)
 
-![](lego_batwing.png)
+![](assets/references/lego_batwing.png)
 
-![](ironman_mining_attachment.png)
+![](assets/references/ironman_mining_attachment.png)
 
 - Sarah
 
@@ -246,9 +246,9 @@
 
 > Like this but yellow instead of green
 
-![](paint-ttj8KI-TxZhay41DEvUMGA.png)
+![](assets/paints/paint-ttj8KI-TxZhay41DEvUMGA.png)
 
-![](paint-5L4xJDu3Qsoisfha2u3Vrg.png)
+![](assets/paints/paint-5L4xJDu3Qsoisfha2u3Vrg.png)
 
 - Ryuji
 
@@ -270,3 +270,27 @@ e switch to something like
 - Sarah
 
 > I think class could be the environment its built for, then role for the explorer/researcher/etc
+
+- Pretzel
+
+> depending on how robot vs organic you want to go with this, the "eyes" could look somethign like this. First one for air, second one for underwater/through solid materials.
+
+> [!note]
+> On the left: ultrasound phased array for air
+> On the right: same but for solid materials similar to that of water
+
+![](assets/references/ultrasonic_array_left.png)
+
+![](assets/references/ultrasonic_array_right.png)
+
+> \[A layer of] glass \[in front] would be OK underwater I think, in air it would have to be exposed
+> it'd have to be special glass that transmits the ultrasound into the water like a beluga whale's melon (<https://en.wikipedia.org/wiki/Melon_(cetacean)>)
+
+- Ryuji
+
+> I imagine then 4 to 6 clusters of lens spread on the head (this many and spread out for redundancy)
+
+- Pretzel
+
+> spread out also gives higher resolution
+> like bigger aperture on a telescope

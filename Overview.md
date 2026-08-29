@@ -8,7 +8,7 @@ Sonioids are pack animals intended for research and exploration on planets that 
 - [Sonioids](Sonioids.md)
 	- [Explorer role](Explorer%20Role.md)
 	- [Research role](Research%20Role.md)
-- [Factions]() (sometimes referred as "companies")
+- [Factions](Factions.md) (sometimes referred as "companies")
 
 Meta
 

@@ -1,7 +1,5 @@
 # Overview
 
----
-
 Sonioids are pack animals intended for research and exploration on planets that don't orbit a star.
 
 Sonioids use geothermal energy to recharge

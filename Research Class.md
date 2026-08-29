@@ -1,7 +1,5 @@
 # Research Class
 
----
-
 Large, Komodo dragon-esc robots built to carry large loads
 
 They have claws on their primarily appendages intended for digging, with two smaller arms located near the top of their chest intended for analysis of specimens.

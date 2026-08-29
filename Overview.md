@@ -2,7 +2,7 @@
 
 Sonioids are pack animals intended for research and exploration on planets that don't orbit a star
 
-## Table of content
+## Table of Contents
 
 - [Common Patterns](Common%20Patterns.md)
 - [Sonioids](Sonioids.md)

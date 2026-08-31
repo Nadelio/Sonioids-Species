@@ -12,8 +12,9 @@ They come in two primarily roles (legacy classes):
 
 - [Research role](sonioids/Research%20role.md)
 - [Explorer role](sonioids/Explorer%20role.md)
+- [Striker role](sonioids/Striker%20role.md)
 
-They are distinguished by their class (operating environment)
+They are distinguished by their class (operating environment):
 
 - Aquatic
 - Underground

@@ -13,17 +13,17 @@ Here are some examples of cool patterns that could be seen on a Sonioid (this is
 
 (Source: [COD Cold War Wiki | Camos](https://callofduty.fandom.com/wiki/Weapon_Camouflage/Call_of_Duty:_Black_Ops_Cold_War#Science_))
 
-![paint-ttj8KI-TxZhay41DEvUMGA](assets/paints/paint-ttj8KI-TxZhay41DEvUMGA.png)\
-![paint-policia](assets/paints/paint-policia.png)\
-![paint-b6NU6TiCA8qLqEvVhnJxkA](assets/paints/paint-b6NU6TiCA8qLqEvVhnJxkA.png)\
-![paint-TmjhId0bnchJkfPF7VI3sA](assets/paints/paint-TmjhId0bnchJkfPF7VI3sA.png)\
-![paint-WJeXYuVVJccoc8f-jcDoUw](assets/paints/paint-WJeXYuVVJccoc8f-jcDoUw.png)
+![paint-ttj8KI-TxZhay41DEvUMGA](../assets/paints/paint-ttj8KI-TxZhay41DEvUMGA.png)\
+![paint-policia](../assets/paints/paint-policia.png)\
+![paint-b6NU6TiCA8qLqEvVhnJxkA](../assets/paints/paint-b6NU6TiCA8qLqEvVhnJxkA.png)\
+![paint-TmjhId0bnchJkfPF7VI3sA](../assets/paints/paint-TmjhId0bnchJkfPF7VI3sA.png)\
+![paint-WJeXYuVVJccoc8f-jcDoUw](../assets/paints/paint-WJeXYuVVJccoc8f-jcDoUw.png)
 
 (Source: [TF2 Wiki | Warpaints](https://wiki.teamfortress.com/wiki/War_Paint))
 
-![paint-clover](assets/paints/paint-clover.png)\
-![paint-W5j2262wQLatmZwdHhPL4Q](assets/paints/paint-W5j2262wQLatmZwdHhPL4Q.png)\
-![paint-eBHuMav12oNRc0swybjB4g](assets/paints/paint-eBHuMav12oNRc0swybjB4g.png)
+![paint-clover](../assets/paints/paint-clover.png)\
+![paint-W5j2262wQLatmZwdHhPL4Q](../assets/paints/paint-W5j2262wQLatmZwdHhPL4Q.png)\
+![paint-eBHuMav12oNRc0swybjB4g](../assets/paints/paint-eBHuMav12oNRc0swybjB4g.png)
 
 Additional examples (I got lazy and didn't want to keep copy-pasting the images)
 

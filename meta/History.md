@@ -233,7 +233,7 @@
 > maybe they have a different color scheme based on the company and environment (even tho by nature they are built to work in places without light humans had to build them so of course they had to take pride in their creations)
 
 > what if the company logos are engraved so that they can see it on each other even tho they are blind?
-
+thats how you know the car is designed for a 1st world city for people who dont do their own work
 > or maybe made of strips of different texture based on the company. I imagine rugged for one, dotted for another, and with length-wise grooves on yet another one
 
 - Noruaric
@@ -248,7 +248,7 @@
 
 ![](assets/paints/paint-ttj8KI-TxZhay41DEvUMGA.png)
 
-![](assets/paints/paint-5L4xJDu3Qsoisfha2u3Vrg.png)
+![](assets/paints/paint-policia.png)
 
 - Ryuji
 
@@ -276,7 +276,10 @@ e switch to something like
 > depending on how robot vs organic you want to go with this, the "eyes" could look somethign like this. First one for air, second one for underwater/through solid materials.
 
 > [!note]
+> Different design for different "acoustic impedance"
+>
 > On the left: ultrasound phased array for air
+>
 > On the right: same but for solid materials similar to that of water
 
 ![](assets/references/ultrasonic_array_left.png)
@@ -285,6 +288,7 @@ e switch to something like
 
 > \[A layer of] glass \[in front] would be OK underwater I think, in air it would have to be exposed
 > it'd have to be special glass that transmits the ultrasound into the water like a beluga whale's melon (<https://en.wikipedia.org/wiki/Melon_(cetacean)>)
+> \[effectiveness in] thin atmosphere is worse, underground it would be very good
 
 - Ryuji
 
@@ -294,3 +298,71 @@ e switch to something like
 
 > spread out also gives higher resolution
 > like bigger aperture on a telescope
+
+- Sarah
+
+> okay so we need an alternative way of sight when on the surface of planets with little to no atmosphere
+> Lidar?
+
+- Pretzel
+
+> radar is another option for no-atmosphere vision
+
+- Ryuji
+
+> Lidar would be interesting lore-wise. If they use this method in a planet where creatures are used to darkness it could be a double edged sword. Assuming light sensitivity is very limited in animals there (both in color spectrum and actual resolution of the eye) a sudden light (even if invisible to the human eye we don't know what the captive range of the animals are) could attract predators or signal to enemies your position
+> so they need to use it sparingly
+
+> what if Lidar or better yet, a laser antenna is the only way they can communicate with the "mothership" in orbit? but since it's still light (and it blinks very fast) they have to surface from the ground every so often to send an update but then immediately run back underground to safety?
+> maybe the light-sensitive creatures are so fast that to succede in sending a report, multiple explorers need to surface at the same time, scatter, send the signal, and those that can come back all in one piece can try again the next day
+
+> what if they are something like fireflies? they have the "monopoly" over light, so when something else interferes with their communication they attack it. And since it's all fiction, they could also secrete an acidic substance that corrodes titanium / steel
+> THIS IS WHY THEY HAVE THE CERAMIC PLATING, to protect them from this acid
+> but they still need to be careful because if the acid reaches a junction or critical part it will melt
+
+- Sarah
+
+> The angsty fanfic writer inside of me is already cooking up a "lost in the dark" story about an explorer sonioid being unable to use their lidar because of beasts hunting them (oh and no atmosphere bc yes please torture the poor sonioid for my entertainment :MISCHIEVOUS: )
+
+> My thoughts are that they look similar to synths, as in they are sleek and lizard-like, but their appearances can differ quite a bit depending on environment, such as the presence of insulation (fur), or ceramic plating (high-heat)
+> With researcher sonioids being closer to that of a Komodo dragon
+> With an extra set of smaller appendages used for manipulating objects (think like human arms mixed with spider mandibles)
+> All sonioids have digging claws, but researcher sonioids have larger claws and their front limbs have some form of hydraulic built in to help break up tough stone and bedrock
+
+> And explorer sonioids have smaller, retractable claws, intended for digging and displacing soft dirt and grabbing delicate objects (such as artifacts or materials that need to be returned to the nest for analysis)
+
+- Pretzel
+
+> explorer class concept in which I ignore most of the things in the description past "bat-like"
+
+![](bat_concept_art.png)
+
+- Sarah
+
+> glass visor, no face features, just the glass for protecting the lidar while still letting it through
+
+- Ryuji
+
+> I like the idea of the array on the ears. A dog I saw switched her ears between two positions. Out in the front and rotated 90 degrees back on a 45 degree tilt (basically with the back of the ear touching the skull). In the first position she listened for things in front of her and in the second the ones around her
+
+- Sarah
+
+> thinking like a komodo dragon centaur type of thing for researchers
+> Basically the neck down is komodo, but then attach an additional segment for the torso that has the smaller arms/appendages and the synth head?
+
+![komodo_dragon](assets/references/komodo_dragon.jpg)
+
+> And then I was thinking of the explorers as like a kobold almost?
+
+![kobold_drawing](assets/references/kobold_drawing.gif)
+
+> Or if we want to be more animalistic, a raptor with more developed front limbs?
+
+> And then the explorers also have the bat-like webbing in-between their fingers/toes and their arms and torso
+
+> That first one is pretty much what I was thinking of for the explorers but make it more reptilian and have the ability to be bi-pedal
+
+![horizon_beast_1](assets/references/horizon_beast_1.png)
+
+![horizon_beast_2](assets/references/horizon_beast_2.png)
+

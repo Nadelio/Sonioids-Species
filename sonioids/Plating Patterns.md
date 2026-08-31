@@ -1,4 +1,4 @@
-# Common Patterns
+# Plating Patterns
 
 Given that all Sonioids are from a couple different factions (companies), they usually have some form of patterning to help differentiate them.
 
@@ -14,14 +14,14 @@ Here are some examples of cool patterns that could be seen on a Sonioid (this is
 (Source: [COD Cold War Wiki | Camos](https://callofduty.fandom.com/wiki/Weapon_Camouflage/Call_of_Duty:_Black_Ops_Cold_War#Science_))
 
 - ![](assets/paints/paint-ttj8KI-TxZhay41DEvUMGA.png)
-- ![](assets/paints/paint-5L4xJDu3Qsoisfha2u3Vrg.png)
+- ![](assets/paints/paint-policia.png)
 - ![](assets/paints/paint-b6NU6TiCA8qLqEvVhnJxkA.png)
 - ![](assets/paints/paint-TmjhId0bnchJkfPF7VI3sA.png)
 - ![](assets/paints/paint-WJeXYuVVJccoc8f-jcDoUw.png)
 
 (Source: [TF2 Wiki | Warpaints](https://wiki.teamfortress.com/wiki/War_Paint))
 
-- ![](assets/paints/paint-jeQOFtnjnpAbsx0Y2yYy7g.png)
+- ![](assets/paints/paint-clover.png)
 - ![](assets/paints/paint-W5j2262wQLatmZwdHhPL4Q.png)
 - ![](assets/paints/paint-eBHuMav12oNRc0swybjB4g.png)
 

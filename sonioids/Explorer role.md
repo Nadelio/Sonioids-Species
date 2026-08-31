@@ -1,4 +1,4 @@
-# Explorer Role
+# Explorer role
 
 Small bat-like salamanders with claws used for digging through soft ground and picking up objects.
 

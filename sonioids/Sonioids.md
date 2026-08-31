@@ -10,8 +10,8 @@ Sonioids can also utilize their lidar to communicate over long distances with ot
 
 They come in two primarily roles (legacy classes):
 
-- [Research Role](Research%20Role.md)
-- [Explorer Role](Explorer%20Role.md)
+- [Research role](sonioids/Research%20role.md)
+- [Explorer role](sonioids/Explorer%20role.md)
 
 They are distinguished by their class (operating environment)
 

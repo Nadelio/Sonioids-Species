@@ -1,6 +1,6 @@
-# "Fireflies"
+# Fireflies
 
-*Fireflies* are the codename for a species of insect on one of the planets the Sonioids are deployed on, specifically sonioids #o77x78 and #7ygp5h, manufactured by [Ambient Frontier](Ambient%20Frontier.md). 
+*Fireflies* are the codename for a species of insect on one of the planets the Sonioids are deployed on, specifically sonioids #o77x78 and #7ygp5h, manufactured by [Ambient Frontier](factions/Ambient%20Frontier.md). 
 
 ---
 \[Begin Report\]
